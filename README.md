@@ -70,4 +70,4 @@
 
 ###
 
-<img align="left" height="150" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/public/assets/snake.svg" />
+<img align="center" height="150" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/public/assets/snake.svg" />
