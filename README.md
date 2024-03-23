@@ -69,5 +69,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/spacemonochrome/spacemonochrome/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/spacemonochrome/spacemonochrome/output/snake.svg](https://github.com/spacemonochrome/spacemonochrome/blob/main/snake.svg)https://github.com/spacemonochrome/spacemonochrome/blob/main/snake.svg" alt="Snake animation" />
 
 ###
