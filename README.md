@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/ec/84/a4/ec84a45805bca7bac178a6cfe552cef7.gif" />
+<img align="right" height="150" src="https://i.imgur.com/29zOd7u.gif" />
 
 ###
 
@@ -70,4 +70,4 @@
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/public/assets/snake.svg" />
+<img align="center" height="150" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/public/assets/snake.svg" />
