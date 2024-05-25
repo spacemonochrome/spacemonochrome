@@ -1,6 +1,11 @@
 <h2 align="left">Hi 👋! My name is Hasan Fırat Keskin</h2>
 
 ###
+<div align="center">
+  <p align="left">Hi</p>
+  </div>
+###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=spacemonochrome&theme=gotham&show_icons=true" height="150" alt="stats graph"  />
@@ -73,5 +78,3 @@
 <br clear="both">
 
 ###
-
-<img align="center" height="150" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/public/assets/snake.svg" />
