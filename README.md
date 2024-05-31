@@ -2,7 +2,7 @@
 
 ###
 <div align="center">
-  <p align="left">Hi</p>
+  <p align="left">Hello. I am Hasan Fırat Keskin. I graduated from the web design department in vocational high school. I am currently studying electrical and electronics engineering. I am advancing my studies mainly in embedded systems and software. I work on Altium in circuit design and STM32 processors in embedded software. My purpose in opening this account is to be useful to people and provide the necessary documents.</p>
   </div>
 
 
