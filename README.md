@@ -3,6 +3,16 @@
 ###
 <div align="center">
   <p align="left">Hello. I am Hasan Fırat Keskin. I graduated from the web design department in vocational high school. I am currently studying electrical and electronics engineering. I am advancing my studies mainly in embedded systems and software. I work on Altium in circuit design and STM32 processors in embedded software. My purpose in opening this account is to be useful to people and provide the necessary documents.</p>
+
+  
+   <p> 1. ESP32 </p>
+   <p> 2. STM32 </p>
+   <p> 3. Arduino </p>
+   <p> 4. Raspberry Pi </p>
+   <p> 5. PIC </p>
+
+  
+  
   </div>
 
 
