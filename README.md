@@ -16,10 +16,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgur.com/29zOd7u.gif" />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="50" alt="embeddedc logo"  />
   <img width="12" />
