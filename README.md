@@ -2,7 +2,7 @@
 
 ###
 <div align="center">
-  <p align="left">Hello. I am Hasan Fırat Keskin. I graduated from the web design department in vocational high school. I am currently studying electrical and electronics engineering. I am advancing my studies mainly in embedded systems and software. I work on Altium in circuit design and Raspberry Pi, STM32, ESP32, PIC, ARDUINO processors in embedded software. I continue my work on user interface design with C# and image processing with Python. My purpose in opening this account is to be useful to people and provide the necessary documents.</p>
+  <p align="left">Hello. I work with Altium for circuit design and Raspberry Pi, STM32, and ESP32 processors for embedded software. I'm working on user interface design in C# and image processing in Python. I design my electronic boards using Altium Designer. My goal with this account is to be helpful to people and provide the necessary documentation.</p>
 
     
   </div>
